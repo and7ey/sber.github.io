@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/twister/static/css/main.54f82453.chunk.css",
+    "main.js": "/twister/static/js/main.ed26f635.chunk.js",
+    "main.js.map": "/twister/static/js/main.ed26f635.chunk.js.map",
+    "runtime-main.js": "/twister/static/js/runtime-main.3e341217.js",
+    "runtime-main.js.map": "/twister/static/js/runtime-main.3e341217.js.map",
+    "static/css/2.5b9f4d9e.chunk.css": "/twister/static/css/2.5b9f4d9e.chunk.css",
+    "static/js/2.b968c520.chunk.js": "/twister/static/js/2.b968c520.chunk.js",
+    "static/js/2.b968c520.chunk.js.map": "/twister/static/js/2.b968c520.chunk.js.map",
+    "static/js/3.54858e1a.chunk.js": "/twister/static/js/3.54858e1a.chunk.js",
+    "static/js/3.54858e1a.chunk.js.map": "/twister/static/js/3.54858e1a.chunk.js.map",
+    "index.html": "/twister/index.html",
+    "static/css/2.5b9f4d9e.chunk.css.map": "/twister/static/css/2.5b9f4d9e.chunk.css.map",
+    "static/css/main.54f82453.chunk.css.map": "/twister/static/css/main.54f82453.chunk.css.map",
+    "static/js/2.b968c520.chunk.js.LICENSE.txt": "/twister/static/js/2.b968c520.chunk.js.LICENSE.txt",
+    "static/media/sphere.ea0e1542.png": "/twister/static/media/sphere.ea0e1542.png",
+    "static/media/twister.d6cd8b4b.png": "/twister/static/media/twister.d6cd8b4b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e341217.js",
+    "static/css/2.5b9f4d9e.chunk.css",
+    "static/js/2.b968c520.chunk.js",
+    "static/css/main.54f82453.chunk.css",
+    "static/js/main.ed26f635.chunk.js"
+  ]
+}
