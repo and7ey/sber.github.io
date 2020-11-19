@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/twister/static/css/main.b1fc2888.chunk.css",
-    "main.js": "/twister/static/js/main.c2962ac8.chunk.js",
-    "main.js.map": "/twister/static/js/main.c2962ac8.chunk.js.map",
+    "main.css": "/twister/static/css/main.6ec7478b.chunk.css",
+    "main.js": "/twister/static/js/main.b5cfb828.chunk.js",
+    "main.js.map": "/twister/static/js/main.b5cfb828.chunk.js.map",
     "runtime-main.js": "/twister/static/js/runtime-main.715e74fa.js",
     "runtime-main.js.map": "/twister/static/js/runtime-main.715e74fa.js.map",
     "static/css/2.5b9f4d9e.chunk.css": "/twister/static/css/2.5b9f4d9e.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.b2a302bb.chunk.js.map": "/twister/static/js/3.b2a302bb.chunk.js.map",
     "index.html": "/twister/index.html",
     "static/css/2.5b9f4d9e.chunk.css.map": "/twister/static/css/2.5b9f4d9e.chunk.css.map",
-    "static/css/main.b1fc2888.chunk.css.map": "/twister/static/css/main.b1fc2888.chunk.css.map",
+    "static/css/main.6ec7478b.chunk.css.map": "/twister/static/css/main.6ec7478b.chunk.css.map",
     "static/js/2.81e455cb.chunk.js.LICENSE.txt": "/twister/static/js/2.81e455cb.chunk.js.LICENSE.txt",
     "static/media/sphere.ea0e1542.png": "/twister/static/media/sphere.ea0e1542.png",
     "static/media/twister.d6cd8b4b.png": "/twister/static/media/twister.d6cd8b4b.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.715e74fa.js",
     "static/css/2.5b9f4d9e.chunk.css",
     "static/js/2.81e455cb.chunk.js",
-    "static/css/main.b1fc2888.chunk.css",
-    "static/js/main.c2962ac8.chunk.js"
+    "static/css/main.6ec7478b.chunk.css",
+    "static/js/main.b5cfb828.chunk.js"
   ]
 }
